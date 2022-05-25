@@ -17,7 +17,7 @@ let questions = [
     answers: [
       "Common Style Sheet",
       "Colorful Style Sheet"
-    ]
+    ],
     options: [
       "Common Style Sheet",
       "Colorful Style Sheet",
